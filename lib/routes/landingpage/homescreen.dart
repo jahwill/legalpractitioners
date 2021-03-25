@@ -8,7 +8,7 @@ import 'package:legalpractitioners/components/carousel.dart';
 import 'package:legalpractitioners/routes/auth/login.dart';
 import 'package:legalpractitioners/themeapp/apptheme.dart';
 
-import 'homecomponents/illustration_card.dart';
+import 'homecomponents/card.dart';
 import 'homecomponents/menu_container_card.dart';
 import 'homecomponents/services_container.dart';
 

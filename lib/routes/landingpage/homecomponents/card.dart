@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:legalpractitioners/routes/landingpage/homecomponents/illustration_model.dart';
+import 'package:legalpractitioners/routes/landingpage/homecomponents/card_model.dart';
 import 'package:legalpractitioners/themeapp/apptheme.dart';
 
 class ImageListCard extends StatelessWidget {
